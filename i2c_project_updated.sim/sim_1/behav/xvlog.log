@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/argo-10/Desktop/i2c_master_new.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_master_new
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/argo-10/Desktop/tb_i2c_master_new.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_master_tb_new
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/argo-10/Desktop/i2c_project_updated/i2c_project_updated.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Wed Nov 13 21:18:33 2024
+# Process ID: 9676
+# Current directory: C:/Users/argo-10/Desktop/i2c_project_updated/i2c_project_updated.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/argo-10/Desktop/i2c_project_updated/i2c_project_updated.sim/sim_1/behav/xsim.dir/i2c_master_tb_new_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/argo-10/Desktop/i2c_project_updated/i2c_project_updated.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/argo-10/Desktop/i2c_project_updated/i2c_project_updated.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/argo-10/Desktop/i2c_project_updated/i2c_project_updated.sim/sim_1/behav/xsim.dir/i2c_master_tb_new_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Wed Nov 13 21:18:34 2024...
